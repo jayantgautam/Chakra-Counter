@@ -76,7 +76,7 @@ The reset button returns the counter value back to zero.
 Clone the repository:
 
 ```bash
-git clone https://github.com/jyntgtm/chakra-counter.git
+git clone https://github.com/jayantgautam/chakra-counter.git
 ```
 
 Move into the project folder:
